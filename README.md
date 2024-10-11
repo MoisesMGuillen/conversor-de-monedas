@@ -42,7 +42,7 @@ Este proyecto es un conversor de divisas basado en tasas de cambio actuales, uti
 1. Clona este repositorio:
 
     ```bash
-    git clone https://github.com/usuario/proyecto-conversor
+    https://github.com/MoisesMGuillen/conversor-de-monedas.git
     ```
 
 2. Compila y ejecuta el proyecto en tu entorno de desarrollo preferido.
