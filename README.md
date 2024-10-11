@@ -1,5 +1,4 @@
 # conversor-de-monedas
-# Conversor de Divisas
 
 Este proyecto es un conversor de divisas basado en tasas de cambio actuales, utilizando una API de tipo de cambio. Permite convertir varias monedas populares como el dólar estadounidense, el peso argentino, el real brasileño y el peso colombiano. El usuario puede ingresar un monto en una moneda y obtener su equivalente en otra.
 
